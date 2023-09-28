@@ -9,7 +9,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/inst
 #Install GCC
 brew install gcc
 
-#Install FUZZY (fzf) and saml2aws and awscli
+#Install FUZZY (fzf) and saml2aws
 brew install fzf saml2aws
 
 #Installing AWSCLI in v2. That is the only way, do not use repo manager in linux like apt or brew to install it. 
