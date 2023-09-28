@@ -8,7 +8,7 @@ That script installs all needed tools for Global Data Scientist Role.
 5) Getting profiles for CB, that step needs preconfiguration of SSH
 6) Install ZSH
 7) Adding Connected Brewery command. More info on https://github.com/connectedbrewery/nl029oc-aws-profiles/tree/main
-8) GitHUB setup (SSH keys) <br>
+8) GitHUB setup (SSH keys): <br>
     Below SSH key please save in your GitHUB account <br>
     Full manual in this link https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account <br>
     Please do not forgot to authorize you SSH key for Connected Brewery company where all repos are <br>
